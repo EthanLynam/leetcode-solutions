@@ -11,4 +11,8 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/EthanLynam/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/EthanLynam/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
