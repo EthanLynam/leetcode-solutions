@@ -17,11 +17,13 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/EthanLynam/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EthanLynam/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EthanLynam/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EthanLynam/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
