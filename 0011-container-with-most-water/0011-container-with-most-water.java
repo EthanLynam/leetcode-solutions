@@ -13,19 +13,16 @@ class Solution {
             }
 
             currentWater = (right - left) * smaller;
-            //System.out.println(currentWater);
 
             if (currentWater > largestWater) {
                 largestWater = currentWater;
             }
 
             if (height[left] < height[right]) {
-                System.out.println("left");
                 left++;
             }
 
             else {
-                System.out.println("right");
                 right--;
             }
         }
