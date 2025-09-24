@@ -24,6 +24,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0303-range-sum-query-immutable](https://github.com/EthanLynam/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/EthanLynam/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/EthanLynam/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EthanLynam/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -53,4 +54,8 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/EthanLynam/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
