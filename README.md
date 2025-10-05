@@ -30,6 +30,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [1392-find-the-difference-of-two-arrays](https://github.com/EthanLynam/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EthanLynam/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/EthanLynam/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1833-find-the-highest-altitude](https://github.com/EthanLynam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0238-product-of-array-except-self](https://github.com/EthanLynam/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/EthanLynam/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/EthanLynam/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/EthanLynam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Design
 |  |
 | ------- |
