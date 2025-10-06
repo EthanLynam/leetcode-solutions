@@ -31,6 +31,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [1392-find-the-difference-of-two-arrays](https://github.com/EthanLynam/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/EthanLynam/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/EthanLynam/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/EthanLynam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0345-reverse-vowels-of-a-string](https://github.com/EthanLynam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EthanLynam/leetcode-solutions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,8 +77,13 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/EthanLynam/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/EthanLynam/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
