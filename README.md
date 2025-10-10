@@ -33,6 +33,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/EthanLynam/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/EthanLynam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/EthanLynam/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0724-find-pivot-index](https://github.com/EthanLynam/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/EthanLynam/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/EthanLynam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/EthanLynam/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Design
 |  |
 | ------- |
