@@ -1,19 +1,19 @@
 class RecentCounter {
-    Queue<Integer> nums = new LinkedList<>();
+    Deque<Integer> nums = new LinkedList<>();
+    int count = 0;
 
     public RecentCounter() {
         
     }
     
     public int ping(int t) {
-        int count = 0;
 
-        nums.add(t);
-        
-        for (int num : nums) {
-            if (num >= (t - 3000)) {
-                count++;
-            }
+        nums.addFirst(t);
+        count++;
+
+        while (nums.peekLast() < (t - 3000)) {
+            nums.removeLast();
+            count--;
         }
 
         return count;
