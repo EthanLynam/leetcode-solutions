@@ -22,6 +22,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EthanLynam/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/EthanLynam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/EthanLynam/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/EthanLynam/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/EthanLynam/leetcode-solutions/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/EthanLynam/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/EthanLynam/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/EthanLynam/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
