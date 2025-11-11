@@ -6,6 +6,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/EthanLynam/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/EthanLynam/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/EthanLynam/leetcode-solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## String
