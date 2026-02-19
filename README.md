@@ -16,6 +16,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0345-reverse-vowels-of-a-string](https://github.com/EthanLynam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EthanLynam/leetcode-solutions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/EthanLynam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/EthanLynam/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/EthanLynam/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/EthanLynam/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -56,6 +57,7 @@ A collection of my solutions to LeetCode questions. - Created using [LeetHub v2]
 | [0345-reverse-vowels-of-a-string](https://github.com/EthanLynam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/EthanLynam/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EthanLynam/leetcode-solutions/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/EthanLynam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/EthanLynam/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
